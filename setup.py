@@ -12,7 +12,7 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'NucDiff'
+NAME = 'nucdiff'
 DESCRIPTION = 'NucDiff locates and categorizes differences between two closely related nucleotide sequences.'
 URL = 'https://github.com/uio-cels/NucDiff'
 AUTHOR = 'Ksenia Khelik'
